@@ -18,7 +18,7 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit from k30t device
-$(call inherit-product, device/lenovo/Kraft_A6000/device.mk)
+$(call inherit-product, device/LENOVO/Kraft_A6000/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_NAME := Kraft_A6000

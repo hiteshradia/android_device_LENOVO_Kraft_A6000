@@ -1,5 +1,5 @@
 /*
- * This was automagically generated from /home/hitesh/a6000/cm11/android/system/kernel/lenovo/Kraft_A6000/arch/arm/tools/mach-types!
+ * This was automagically generated from /home/hitesh/a6000/cm11/android/system/kernel/LENOVO/Kraft_A6000/arch/arm/tools/mach-types!
  * Do NOT edit
  */
 

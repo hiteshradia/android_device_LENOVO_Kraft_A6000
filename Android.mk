@@ -23,6 +23,6 @@ LOCAL_PATH := $(call my-dir)
 
 
 ifeq ($(TARGET_DEVICE),Kraft_A6000)
-include device/lenovo/Kraft_A6000/kernel/AndroidKernel.mk
+include device/LENOVO/Kraft_A6000/kernel/AndroidKernel.mk
 include $(call all-makefiles-under,$(LOCAL_PATH))
 endif
